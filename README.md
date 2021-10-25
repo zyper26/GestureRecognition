@@ -1,2 +1,2 @@
 # GestureRecognition
-Gesture classification based on hand actions by user.
+Gesture classification based on hand actions by user from a video.
